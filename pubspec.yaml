@@ -1,0 +1,134 @@
+name: servino_client
+description: "A new Flutter project."
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0-200.1.beta
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  dio: ^5.9.0
+  dartz: ^0.10.1
+  equatable: ^2.0.8
+  internet_connection_checker: ^3.0.1
+  google_fonts: ^7.0.0
+  shared_preferences: ^2.5.4
+  cached_network_image: ^3.4.1
+  pretty_dio_logger: ^1.4.0
+  flutter_svg: ^2.2.3
+  shimmer: ^3.0.0
+  url_launcher: ^6.3.2
+  path_provider: ^2.1.5
+  connectivity_plus: ^6.1.5
+  easy_localization: ^3.0.8
+  animate_do: ^4.2.0
+  lottie: ^3.3.2
+  intl: ^0.20.2
+  flutter_screenutil: ^5.9.3
+  provider: ^6.1.5+1
+  get_it: ^9.2.0
+  image_picker: ^1.2.1
+  video_player: ^2.8.2
+  chewie: ^1.7.0
+  audioplayers: ^6.5.1
+  record: ^6.1.2
+  geolocator: ^10.1.0
+  permission_handler: ^12.0.1
+  webview_flutter: ^4.7.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  flutter_rating_bar: ^4.0.1
+  firebase_core: ^4.4.0
+  firebase_messaging: ^16.1.1
+  cloud_firestore: ^6.1.2
+  flutter_local_notifications: ^18.0.0
+  flutter_secure_storage: ^10.0.0
+  toastification: ^3.0.3
+  just_audio: ^0.10.5
+  audio_session: ^0.2.2
+  alert_info: ^0.0.8
+  jwt_decoder: ^2.0.1
+  wakelock_plus: ^1.2.8
+  googleapis_auth: ^2.0.0
+  zego_uikit_prebuilt_call: ^4.22.3
+  zego_uikit_signaling_plugin: ^2.8.20
+  zego_uikit: ^2.28.44
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  chat_bubbles: ^1.8.0
+  swipe_to: ^1.0.2
+  flutter_chat_types: ^3.6.2
+  uuid: ^4.5.2
+  google_sign_in: ^6.2.1
+  device_info_plus: ^11.5.0
+  http_certificate_pinning: ^3.0.1
+  jailbreak_root_detection: ^1.2.0+1
+  app_device_integrity: ^1.1.0
+  android_intent_plus: ^6.0.0
+  in_app_purchase: ^3.2.3
+  in_app_purchase_platform_interface: ^1.4.0
+  upgrader: ^12.5.0
+  zego_plugin_adapter: ^2.14.2
+  google_mobile_ads: ^5.3.0
+
+
+dependency_overrides:
+  audioplayers: ^6.5.1
+  audioplayers_platform_interface: ^7.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/app_logo.png
+    - assets/images/
+    - assets/lang/
+    - assets/fonts/
+    - assets/icons/
+    - assets/json/
+
+
+  fonts:
+    - family: BOOTERFF
+      fonts:
+        - asset: assets/fonts/BOOTERFF.ttf
+    - family: MAXIGO
+      fonts:
+        - asset: assets/fonts/MAXIGO.ttf
+    - family: Terminal
+      fonts:
+        - asset: assets/fonts/Terminal.TTF
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Medium.ttf
+    - family: XBFont_ENG
+      fonts:
+        - asset: assets/fonts/XBFont_ENG.ttf
+    - family: XBFont-Medium
+      fonts:
+        - asset: assets/fonts/XBFont-Medium.ttf
+    - family: XBFont4
+      fonts:
+        - asset: assets/fonts/XBFont4.ttf
+    - family: XBFont6
+      fonts:
+        - asset: assets/fonts/XBFont6.ttf
+    - family: XBFontEng2
+      fonts:
+        - asset: assets/fonts/XBFontEng2.ttf

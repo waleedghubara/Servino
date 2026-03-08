@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "696352642194",
+    "firebase_url": "https://servino-85dab-default-rtdb.firebaseio.com",
+    "project_id": "servino-85dab",
+    "storage_bucket": "servino-85dab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:e5aeccbdd0f4e7fe06c24b",
+        "android_client_info": {
+          "package_name": "com.example.servino_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696352642194-bsu3lmit45dbmg4uq3ndn37nqgc4c56n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.walidghubara.servinoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:8086f6fce8beddc406c24b",
+        "android_client_info": {
+          "package_name": "online.walidghubara.servino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696352642194-i4j1vjr72biig8q0i4o3e8fav2uo1rv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.walidghubara.servino",
+            "certificate_hash": "5ebdf34799353850582d38fb16e625ab264c8220"
+          }
+        },
+        {
+          "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696352642194-bsu3lmit45dbmg4uq3ndn37nqgc4c56n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.walidghubara.servinoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:f1e7cbc1f9cd434606c24b",
+        "android_client_info": {
+          "package_name": "online.walidghubara.servinoadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696352642194-bsu3lmit45dbmg4uq3ndn37nqgc4c56n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.walidghubara.servinoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:7edb85de4eff8a7f06c24b",
+        "android_client_info": {
+          "package_name": "online.walidghubara.servinoprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696352642194-933ldkmqmj1g4k9fkgap9bndqfvbnln4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696352642194-bsu3lmit45dbmg4uq3ndn37nqgc4c56n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.walidghubara.servinoadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
